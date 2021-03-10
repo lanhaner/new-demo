@@ -3,7 +3,7 @@
 		<NavHeader @add="add"></NavHeader>
 		<NavMain :list="list" @delTodo="del"></NavMain>
 		<NavFooter :list="list" @clear="clear"></NavFooter>
-		<div>testgi</div>
+		<div>testasaf</div>
 	</div>
 </template>
 
